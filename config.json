@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "text": "Heather Meyer, Katharine Herringshaw",
+    "file": "CURL",
+    "link": "http://www.luc.edu/curl/"
+  },
+  "text": {
+    "title": "CURL - Homelessness Project",
+    "more": "CURL is comprised of the following Team members: \n\nAdvisory Board\nThe Advisory Board is comprised of both faculty and community organization representatives, reflecting the collaborative nature of CURL\u0027s research activities.\n\nAffiliated Community Organizational Partners\nCURL works with a variety of community partners in our ongoing work.  These are organizations with whom we are currently partnering or have partnered in the past.\n\nFaculty\nCURL relies on faculty from a broad range of schools and disciplines in completing its work.\n\nFellows\nUndergraduate, Graduate, Community, and Faculty fellows collaborate with CURL.\n\nStaff and Visiting Scholars\nWith the creation of CURL, Loyola University Chicago greatly increased its commitment to university/community partnerships in the rebuilding of Chicago\u0027s neighborhoods. This partnership is further strengthened through its staff which reflects the capabilities and knowledge base of both the academic and community experiences.",
+    "intro": "CURL projects are developed with community-based organizations across metropolitan Chicago. The projects relate to a wide range of issues including: homelessness, welfare reform, hunger and nutrition, community health, safety, childcare, affordable housing, job training and placement and domestic violence."
+  },
+  "legend": {
+    "edgeLabel": "Connection",
+    "colorLabel": "Search By Group",
+    "nodeLabel": "Node is Type Of Connection"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "imageAttribute": false,
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 0.2,
+      "maxNodeSize": 9,
+      "maxEdgeSize": 0.5,
+      "minNodeSize": 1
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}

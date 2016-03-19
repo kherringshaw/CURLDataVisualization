@@ -1,0 +1,2672 @@
+{
+    "edges": [{
+        "label": "",
+        "source": "104",
+        "target": "87",
+        "id": "14493",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "52",
+        "target": "66",
+        "id": "14380",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "50",
+        "target": "66",
+        "id": "14379",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "107",
+        "target": "71",
+        "id": "14404",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "66",
+        "target": "21",
+        "id": "14345",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "101",
+        "target": "84",
+        "id": "14396",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "35",
+        "target": "80",
+        "id": "14449",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "33",
+        "target": "71",
+        "id": "14455",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "87",
+        "target": "84",
+        "id": "14382",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "75",
+        "target": "63",
+        "id": "14357",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "84",
+        "target": "67",
+        "id": "14347",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "106",
+        "target": "89",
+        "id": "14502",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "87",
+        "target": "71",
+        "id": "14383",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "87",
+        "target": "73",
+        "id": "14384",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "46",
+        "target": "71",
+        "id": "14453",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "104",
+        "target": "37",
+        "id": "14499",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "88",
+        "target": "53",
+        "id": "14512",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "75",
+        "target": "14",
+        "id": "14356",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "108",
+        "id": "14468",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "45",
+        "target": "71",
+        "id": "14416",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "99",
+        "target": "71",
+        "id": "14394",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "100",
+        "target": "99",
+        "id": "14481",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "88",
+        "target": "87",
+        "id": "14508",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "66",
+        "target": "5",
+        "id": "14343",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "90",
+        "target": "27",
+        "id": "14515",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "16",
+        "id": "14352",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "56",
+        "target": "71",
+        "id": "14422",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "100",
+        "target": "87",
+        "id": "14478",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "44",
+        "target": "71",
+        "id": "14457",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "68",
+        "target": "69",
+        "id": "14429",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "106",
+        "target": "107",
+        "id": "14504",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "98",
+        "target": "99",
+        "id": "14486",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "76",
+        "target": "97",
+        "id": "14375",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "69",
+        "target": "0",
+        "id": "14353",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "98",
+        "target": "87",
+        "id": "14484",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "4",
+        "id": "14365",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "92",
+        "target": "87",
+        "id": "14518",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "82",
+        "target": "35",
+        "id": "14471",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "100",
+        "target": "107",
+        "id": "14480",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "41",
+        "target": "76",
+        "id": "14442",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "66",
+        "target": "67",
+        "id": "14339",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "25",
+        "target": "71",
+        "id": "14415",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "42",
+        "target": "69",
+        "id": "14431",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "102",
+        "target": "87",
+        "id": "14488",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "3",
+        "id": "14364",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "53",
+        "target": "71",
+        "id": "14408",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "34",
+        "target": "64",
+        "id": "14435",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "84",
+        "target": "85",
+        "id": "14350",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "51",
+        "target": "76",
+        "id": "14444",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "9",
+        "id": "14369",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "103",
+        "target": "71",
+        "id": "14425",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "90",
+        "target": "91",
+        "id": "14514",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "69",
+        "target": "90",
+        "id": "14466",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "32",
+        "target": "84",
+        "id": "14401",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "29",
+        "target": "71",
+        "id": "14421",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "80",
+        "target": "82",
+        "id": "14458",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "88",
+        "id": "14465",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "82",
+        "target": "87",
+        "id": "14470",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "79",
+        "target": "76",
+        "id": "14443",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "7",
+        "id": "14367",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "59",
+        "target": "71",
+        "id": "14403",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "66",
+        "target": "20",
+        "id": "14344",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "57",
+        "target": "69",
+        "id": "14430",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 0.05000000074505806
+    }, {
+        "label": "",
+        "source": "27",
+        "target": "69",
+        "id": "14428",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "75",
+        "target": "17",
+        "id": "14358",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "76",
+        "target": "77",
+        "id": "14374",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "38",
+        "target": "73",
+        "id": "14433",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "86",
+        "target": "28",
+        "id": "14477",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "87",
+        "target": "80",
+        "id": "14381",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "48",
+        "target": "75",
+        "id": "14438",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "10",
+        "id": "14370",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "98",
+        "target": "107",
+        "id": "14483",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "93",
+        "target": "73",
+        "id": "14390",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "93",
+        "target": "71",
+        "id": "14389",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "53",
+        "target": "75",
+        "id": "14409",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "76",
+        "target": "3",
+        "id": "14376",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "102",
+        "target": "107",
+        "id": "14491",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "5",
+        "id": "14366",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "98",
+        "id": "14460",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "76",
+        "target": "5",
+        "id": "14378",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "70",
+        "target": "71",
+        "id": "14419",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "97",
+        "id": "14363",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "102",
+        "target": "59",
+        "id": "14492",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "102",
+        "target": "103",
+        "id": "14490",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "32",
+        "target": "71",
+        "id": "14402",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "98",
+        "target": "59",
+        "id": "14485",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "105",
+        "target": "71",
+        "id": "14417",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "101",
+        "target": "73",
+        "id": "14398",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "43",
+        "target": "73",
+        "id": "14432",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "66",
+        "target": "22",
+        "id": "14342",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "66",
+        "target": "19",
+        "id": "14340",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "73",
+        "target": "67",
+        "id": "14354",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "84",
+        "target": "1",
+        "id": "14348",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "82",
+        "target": "83",
+        "id": "14473",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "36",
+        "target": "96",
+        "id": "14441",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "89",
+        "target": "71",
+        "id": "14407",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "77",
+        "id": "14362",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "8",
+        "id": "14368",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "91",
+        "target": "96",
+        "id": "14427",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "30",
+        "target": "71",
+        "id": "14424",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "93",
+        "target": "80",
+        "id": "14388",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "89",
+        "target": "84",
+        "id": "14406",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "84",
+        "target": "86",
+        "id": "14459",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "106",
+        "target": "103",
+        "id": "14503",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "101",
+        "target": "71",
+        "id": "14397",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "87",
+        "target": "94",
+        "id": "14386",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "31",
+        "target": "71",
+        "id": "14451",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "88",
+        "target": "99",
+        "id": "14511",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "102",
+        "id": "14462",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "28",
+        "target": "71",
+        "id": "14400",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "64",
+        "target": "65",
+        "id": "14355",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "62",
+        "target": "71",
+        "id": "14411",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "40",
+        "target": "76",
+        "id": "14446",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "90",
+        "target": "99",
+        "id": "14513",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "100",
+        "id": "14461",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "88",
+        "target": "107",
+        "id": "14509",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "99",
+        "target": "69",
+        "id": "14395",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "47",
+        "target": "64",
+        "id": "14413",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "93",
+        "target": "64",
+        "id": "14391",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "86",
+        "target": "99",
+        "id": "14475",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "87",
+        "target": "96",
+        "id": "14387",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "108",
+        "target": "87",
+        "id": "14522",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "99",
+        "target": "84",
+        "id": "14393",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "55",
+        "target": "80",
+        "id": "14448",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "6",
+        "id": "14361",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "80",
+        "target": "81",
+        "id": "14346",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "84",
+        "target": "2",
+        "id": "14349",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "108",
+        "target": "109",
+        "id": "14523",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "13",
+        "id": "14373",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "104",
+        "target": "99",
+        "id": "14494",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "95",
+        "target": "94",
+        "id": "14439",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "104",
+        "target": "107",
+        "id": "14497",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "88",
+        "target": "59",
+        "id": "14510",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "26",
+        "target": "71",
+        "id": "14420",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "31",
+        "target": "64",
+        "id": "14436",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "104",
+        "target": "101",
+        "id": "14495",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "76",
+        "target": "4",
+        "id": "14377",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "100",
+        "target": "101",
+        "id": "14482",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "105",
+        "target": "64",
+        "id": "14418",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "49",
+        "target": "71",
+        "id": "14414",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "54",
+        "target": "71",
+        "id": "14456",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "104",
+        "target": "59",
+        "id": "14498",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "109",
+        "target": "96",
+        "id": "14440",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "83",
+        "target": "80",
+        "id": "14447",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "47",
+        "target": "71",
+        "id": "14412",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "12",
+        "id": "14372",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "78",
+        "target": "41",
+        "id": "14525",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "106",
+        "id": "14464",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "106",
+        "target": "59",
+        "id": "14505",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "104",
+        "id": "14463",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "100",
+        "target": "59",
+        "id": "14479",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "98",
+        "target": "101",
+        "id": "14487",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "93",
+        "target": "94",
+        "id": "14392",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "86",
+        "target": "101",
+        "id": "14476",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "76",
+        "target": "78",
+        "id": "14469",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "78",
+        "target": "79",
+        "id": "14526",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "61",
+        "target": "71",
+        "id": "14423",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "71",
+        "target": "67",
+        "id": "14351",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "104",
+        "target": "93",
+        "id": "14496",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "24",
+        "target": "69",
+        "id": "14410",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "88",
+        "target": "89",
+        "id": "14507",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "92",
+        "target": "93",
+        "id": "14520",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "58",
+        "target": "71",
+        "id": "14454",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "92",
+        "target": "43",
+        "id": "14519",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "37",
+        "target": "71",
+        "id": "14450",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "102",
+        "target": "89",
+        "id": "14489",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "86",
+        "target": "87",
+        "id": "14474",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "87",
+        "target": "75",
+        "id": "14385",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "60",
+        "target": "71",
+        "id": "14452",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "94",
+        "target": "81",
+        "id": "14359",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "23",
+        "target": "76",
+        "id": "14445",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "82",
+        "target": "55",
+        "id": "14472",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "104",
+        "target": "105",
+        "id": "14500",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "88",
+        "target": "39",
+        "id": "14506",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "73",
+        "target": "92",
+        "id": "14467",
+        "attributes": {},
+        "color": "rgb(255,0,127)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "15",
+        "id": "14360",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "92",
+        "target": "38",
+        "id": "14521",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "91",
+        "target": "69",
+        "id": "14426",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "39",
+        "target": "71",
+        "id": "14405",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "72",
+        "target": "73",
+        "id": "14434",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "74",
+        "target": "75",
+        "id": "14437",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "28",
+        "target": "84",
+        "id": "14399",
+        "attributes": {},
+        "color": "rgb(204,76,76)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "66",
+        "target": "18",
+        "id": "14341",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "108",
+        "target": "95",
+        "id": "14524",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "96",
+        "target": "11",
+        "id": "14371",
+        "attributes": {},
+        "color": "rgb(255,100,0)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "106",
+        "target": "87",
+        "id": "14501",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 1.0
+    }, {
+        "label": "",
+        "source": "90",
+        "target": "57",
+        "id": "14516",
+        "attributes": {},
+        "color": "rgb(204,76,204)",
+        "size": 2.0
+    }],
+    "nodes": [{
+        "label": "Lakefront SRO (Carlton)",
+        "labelPlace": "Lakefront SRO (Carlton)",
+        "x": 534.671630859375,
+        "y": 673.517822265625,
+        "id": "8",
+        "attributes": {
+            "Description": "4626 N Magnolia Chicago, IL 60640, USA",
+            "link" : "<a href='http://www.mercyhousing.org/'>Click here for additional information</a>"          
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Chicago Coalition for the Homeless",
+        "labelPlace": "Chicago Coalition for the Homeless",
+        "x": 628.9297485351562,
+        "y": 227.72911071777344,
+        "id": "19",
+        "attributes": {
+            "Description": "70 East Lake Street Suite 720 Chicago, IL 60601, USA",
+            "link" : "<a href='http://www.chicagohomeless.org/'>Chicago Coalition for the Homeless</a>"    
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Final Wave Survey Results: A Preliminary Evaluation of Chicago Ten Year Plan to End Homelessness",
+        "labelPub": "Final Wave Survey Results: A Preliminary Evaluation of Chicago Ten Year Plan to End Homelessness",
+        "x": 258.30804443359375,
+        "y": 437.06781005859375,
+        "id": "100",
+        "attributes": {
+            "Description": " The longitudinal survey interviews adult clients who, when first interviewed, resided in three types of programs central to the Ten-Year Plan: emergency shelters, interim housing programs, and permanent supportive housing programs. The survey follows the progress of the interviewed clients over the course of a year. The current report uses data from all interview waves to consider questions related to changes in client outcomes, and other aspects of client trajectories, over time. It considers the relation between progress in housing stability and traits and circumstances of the clients.",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7e065/51e9b190e4b01c56e4d7e257/1365543999553/Final%20Wave%20Report%208-31-11.pdf>pdf: Final Wave Survey Results</a>"  
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Muznah Madeeha",
+        "labelPerson": "Muznah Madeeha",
+        "x": 455.8986511230469,
+        "y": 221.7333984375,
+        "id": "49",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Evaluation of Catholic Charities  Homelessness Prevention Call Center",
+        "labelOrg": "Evaluation of Catholic Charities  Homelessness Prevention Call Center",
+        "x": 421.59197998046875,
+        "y": 467.320068359375,
+        "id": "84",
+        "attributes": {
+            "Description": "CURL and Catholic Charities developed a research partnership to evaluate Catholic Charities Homelessness Prevention Call Center. This relationship stemmed from previous research collaboration with Catholic Charities along with experience in evaluation research of call centers including the City of Chicago Domestic Violence Help Line. The Call Center is a Homelessness Prevention Initiative of the City of Chicago's 10-Year Plan to End Homelessness. The research team conducted a process evaluation of the Call Center's daily operations, the experience of callers through the Call Center system, the efficiency level of Call Center policies, and system best practices. This evaluation informed future Call Center planning and programming.",
+
+            "link" : "<a href='http://loyolacurl.squarespace.com/projects/evaluation-of-catholic-charities-homelessness-prevention-cal.html'>Evaluation of Catholic Charities</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 20.0
+    }, {
+        "label": "Lin Von Dreele",
+        "labelPerson": "Lin Von Dreele",
+        "x": 586.872314453125,
+        "y": 183.30331420898438,
+        "id": "41",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Erin Stanley",
+        "labelPerson": "Erin Stanley",
+
+        "x": 484.1783142089844,
+        "y": 730.39892578125,
+        "id": "74",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Christopher Wiens",
+        "labelPerson": "Christopher Wiens",
+        "x": 151.8119354248047,
+        "y": 600.4306640625,
+        "id": "72",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Connecting Fractured Lives to a Fragmented System: A Process Evaluation of the Chicago Housing for Health Partnership",
+        "labelOrg": "Connecting Fractured Lives to a Fragmented System: A Process Evaluation of the Chicago Housing for Health Partnership",
+        "x": 271.28594970703125,
+        "y": 626.6941528320312,
+        "id": "80",
+        "attributes": {
+            "Description": "Chicago Housing to Health Partnership (CHHP), a program of the AIDS Foundation of Chicago, is an innovative housing first model for individuals who are homeless, have chronic medical conditions, and have been recently released from the hospital. CURL and CHHP produced a small quality assurance study of the CHHP case management system. For the study, researchers located and conducted 10 qualitative interviews with clients who CHHP staff had designated as 'non-engaged' due to their low number of contacts with case management. Findings from these interviews were combined with findings from administrative data and case management notes analyzed by AFC staff.",
+            "link" : "<a href='http://loyolacurl.squarespace.com/projects/connecting-fractured-lives-to-a-fragmented-system-a-process.html?rq\u003dfragmented'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 30.0
+    }, {
+        "label": "Maureen Shannon Healy",
+        "labelPerson": "Maureen Shannon Healy",
+        "x": 425.56304931640625,
+        "y": 102.10758972167969,
+        "id": "46",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Anthony Vasquez",
+        "labelPerson": "Anthony Vasquez",
+        "x": 709.2538452148438,
+        "y": 400.2459716796875,
+        "id": "68",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "AIDS Foundation of Chicago",
+        "labelOrg": "AIDS Foundation of Chicago",
+        "x": 138.8965301513672,
+        "y": 564.5527954101562,
+        "id": "81",
+        "attributes": {
+            "Description": "200 West Jackson Blvd., Suite 2200 Chicago, IL 60606, USA",
+            "link" : "<a href='http://www.aidschicago.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Julie Hilvers",
+        "labelPerson": "Julie Hilvers",
+        "x": 397.0006103515625,
+        "y": 428.60614013671875,
+        "id": "99",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Deborah Place (Dolores Safe Haven)",
+        "labelOrg": "Deborah Place (Dolores Safe Haven)",
+        "x": 638.4260864257812,
+        "y": 396.9302978515625,
+        "id": "77",
+        "attributes": {
+            "Description": "1532 N. Sedgwick Ave. Chicago, IL 60610, USA",
+            "link" : "<a href='http://www.deborahsplace.org/home'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Reports from Qualitative Research Components Conducted Summer 2009 for the Evaluation of Chicago Plan to End Homelessness",
+        "labelPub": "Reports from Qualitative Research Components Conducted Summer 2009 for the Evaluation of Chicago Plan to End Homelessness",
+        "x": 322.7747802734375,
+        "y": 339.65234375,
+        "id": "88",
+        "attributes": {
+            "Description": "This report summarizes findings from the three qualitative components of the Evaluation of Chicago's Plan to End Homelessness conducted in the summer of 2009. These included: (1) test calls to 311; (2) participant observations and (3) focus groups with consumers. These analyses were undertaken in order to develop the types of insights that cannot be gleaned from quantitative analyses as well as to inform researchers of issues to explore further in the survey of individuals and families that were homeless that commenced in winter of 2009/10.",
+            "link" : "<a href=' https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7e065/51e9b190e4b01c56e4d7e255/1365544000597/Qualitiative%20Reports%20summary%2011-10%20with%20corrections%20Jan2011.pdf'>Click for additional information</a>"
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "United Power for Action and Justice: Breaking the Cycle of Homelessness Reports - Policy Brief",
+        "labelPub": "United Power for Action and Justice: Breaking the Cycle of Homelessness Reports - Policy Brief",
+        "x": 572.2575073242188,
+        "y": 560.228515625,
+        "id": "96",
+        "attributes": {
+            "Description": " The overall goal of the demonstration project was to break the cycle of homelessness by providing services in a coordinated fashion. This report documents lessons learned through demonstration projects fielded in the City of Chicago and Oak Park, August 2001 - December 2002. Five lessons were learned from the project: 1.) Supportive services break the cycle of homelessness. 2.) Supportive services boost treatment rates as much as 450%. 3.) Lack of affordable housing perpetuates homelessness. 4.) Stable employment is difficult but possible with consistent support over time. 5.) Stable funding is critical.",
+
+       "link" : "<a href='http://loyolacurl.squarespace.com/projects/united-power-for-action-and-justice-breaking-the-cycle-of-ho.html"
+        },
+        "color": "rgb(255,0,0)",
+        "size": 35.0
+    }, {
+        "label": "Heartland Health Outreach",
+        "labelOrg": "Heartland Health Outreach",
+
+        "x": 534.9448852539062,
+        "y": 712.6105346679688,
+        "id": "6",
+        "attributes": {
+            "Description": "4750 North Sheridan Road Chicago, IL 60640, ",
+            "link" : "<a href='http://www.heartlandhealthoutreach.org/"
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Audrey Thomas",
+        "labelPerson": "Audrey Thomas",
+        "x": 536.3441772460938,
+        "y": 224.36741638183594,
+        "id": "23",
+        "attributes": {
+            "Description": "Deborah's Place"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Connecting Fractured Lives to a Fragmented System: A Process Evaluation of the Chicago Housing for Health Partnership",
+        "labelPub": "Connecting Fractured Lives to a Fragmented System: A Process Evaluation of the Chicago Housing for Health Partnership",
+        "x": 311.44305419921875,
+        "y": 656.6982421875,
+        "id": "82",
+        "attributes": {
+            "Description": "This is a report of the findings from a process evaluation of the Chicago Housing for Health Partnership. The Chicago Housing for Health Partnership (CHHP), a Housing First and Harm Reduction model, creates a new comprehensive system of health care, housing and supportive services. We found that key strengths of this project were its strong coordination and leadership from the lead agency and its success in harnessing the expertise and skills of the diverse partner agencies. This created a flexible system of allocating resources, solving problems, and serving clients..",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7dfc9/51e9b190e4b01c56e4d7e16a/1365543983033/cchp2.pdf"
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "United Power for Action and Justice",
+        "labelOrg": "United Power for Action and Justice",
+        "x": 646.8688354492188,
+        "y": 642.5538940429688,
+        "id": "15",
+        "attributes": {
+            "Description": "4848 N Clark Chicago, IL 60640, USA",
+            "link" : "<a href='http://www.united-power.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Patricia Crowley",
+        "labelPer": "Patricia Crowley",
+        "x": 518.7894897460938,
+        "y": 116.1914291381836,
+        "id": "51",
+        "attributes": {
+            "Description": "Deborah's Place"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Lakefront SRO (Harold Washington)",
+        "labelOrg": "Lakefront SRO (Harold Washington)",
+        "x": 631.4373779296875,
+        "y": 586.0758056640625,
+        "id": "10",
+        "attributes": {
+            "Description": "4946 N Sheridan Chicago, IL 60640, USA",
+            "link" : "<a href='http://www.mercyhousing.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "David Van Zytveld",
+        "x": 710.945068359375,
+        "y": 496.47161865234375,
+        "id": "27",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Anne Figert",
+        "x": 269.79986572265625,
+        "y": 700.8911743164062,
+        "id": "83",
+        "attributes": {
+            "Description": "LUC Department of Sociology"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "It's ok here. A History of Deborah's Place, An Organization Serving Women Who Are Homeless or Formerly Homeless in Chicago, 1985 ? 2000 ",
+        "x": 588.412353515625,
+        "y": 149.03111267089844,
+        "id": "78",
+        "attributes": {
+            "Description": "N/A",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7dfc9/51e9b191e4b01c56e4d7e2d6/1365543988533/It's_ok_here.pdf"
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Diana Guelespe",
+        "x": 460.82684326171875,
+        "y": 418.4110107421875,
+        "id": "28",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Deborah's Place (Teresa's Interim Housing Program)",
+        "x": 583.5996704101562,
+        "y": 444.7088623046875,
+        "id": "3",
+        "attributes": {
+            "Description": "1532 N. Sedgwick Ave. Chicago, IL 60610, USA",
+            "link" : "<a href='http://www.deborahsplace.org/home'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Elle Nurmi",
+        "x": 400.17510986328125,
+        "y": 198.15682983398438,
+        "id": "30",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Jenna Hartung",
+        "x": 111.58601379394531,
+        "y": 513.541748046875,
+        "id": "34",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Susan Grossman",
+        "x": 203.4469757080078,
+        "y": 377.0469970703125,
+        "id": "59",
+        "attributes": {
+            "Description": "LUC School of Social Work"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "St. Leo's Housing for Veterans",
+        "x": 404.6268615722656,
+        "y": 662.7105712890625,
+        "id": "75",
+        "attributes": {
+            "Description": "Loyola University Chicago's Center for Urban Research and Learning and Catholic Charities worked together to develop and implement a process and outcome evaluation of the St. Leo Campus for veterans, a unique partnership between a private organization, Catholic Charities, and a public one, the Veterans Administration. The purpose of this evaluation was to both assess the implementation process of this project for Catholic Charities, the Veteran's Administration and St. Leo's Veteran Campus' various stakeholders and to provide a blueprint for the national reproduction of the model. ",
+            "link" : "<a href='http://loyolacurl.squarespace.com/projects/st-leos-housing-for-veterans.html?rq\u003dleo'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 20.0
+    }, {
+        "label": "Erin Hardin",
+        "x": 106.17249298095703,
+        "y": 347.263427734375,
+        "id": "31",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Lakefront SRO (Miriam)",
+        "x": 693.3601684570312,
+        "y": 577.1558837890625,
+        "id": "13",
+        "attributes": {
+            "Description": "4707 N Malden Chicago, IL 60640, USA",
+            "link" : "<a href='http://www.mercyhousing.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Evaluation of Chicago's 10 Year Plan to End Homelessness",
+        "x": 291.7584228515625,
+        "y": 277.01824951171875,
+        "id": "71",
+        "attributes": {
+            "Description": "This evaluation sought to gain an understanding of how Chicago's Plan has affected Chicago's homeless system and how those changes directly impacted the lives of the homeless residents it served. Working with various social service agencies that provide homelessness services, the research team evaluated the programs and models that were put into place under the Chicago Plan and provided data to make necessary mid-course corrections and improve implementation going forward. ",
+            "link" : "<a href='http://loyolacurl.squarespace.com/research-publications/evaluation-of-chicagos-10-year-plan-to-end-homelessness.html?rq\u003d10%20year'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 40.0
+    }, {
+        "label": "Reuben Miller",
+        "x": 385.58367919921875,
+        "y": 372.64483642578125,
+        "id": "53",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Stephen Werner",
+        "x": 713.8403930664062,
+        "y": 530.97607421875,
+        "id": "57",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Chicago Christian Industrial League",
+        "x": 740.2435302734375,
+        "y": 429.89801025390625,
+        "id": "0",
+        "attributes": {
+            "Description": "2750 West Roosevelt Road Chicago, IL 60608, USA",
+            "link" : "<a href='http://www.asafehaven.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Marilyn Krogh",
+        "x": 210.15081787109375,
+        "y": 654.9306640625,
+        "id": "43",
+        "attributes": {
+            "Description": "LUC Department of Sociology"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Housing First Model Fidelity and Implications for Substance Abuse Treatment",
+        "x": 103.91458892822266,
+        "y": 446.86578369140625,
+        "id": "64",
+        "attributes": {
+            "Description": "Housing First is a model for serving homeless individuals who have been dually diagnosed with substance use disorder and serious mental illness. In partnership with Heartland Alliance the study sought to: (1) Define the essential components of the Housing First model; (2) Develop a fidelity index for Housing First programming; (3) Test the finalized fidelity index for reliability and validity; and (4) Assess the degree to which fidelity predicts improved substance abuse treatment access for clients.",
+            "link" : "<a href='http://loyolacurl.squarespace.com/projects/housing-first-model-fidelity-and-implications-for-substance.html?rq\u003dfidelity'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 20.0
+    }, {
+        "label": "Bristol Huffman",
+        "x": 740.1239624023438,
+        "y": 471.00579833984375,
+        "id": "24",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Provider Survey Results: A Preliminary Evaluation of Chicago's Plan to End Homelessness",
+        "x": 205.99278259277344,
+        "y": 428.69683837890625,
+        "id": "104",
+        "attributes": {
+            "Description": "N/A",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7e065/51e9b190e4b01c56e4d7e256/1365543999337/FINAL%20Provider%20Survey%20Report%2007182012.pdf'>Click for additional information</a>"         },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Jennifer Nargang Chernega",
+        "x": 334.89227294921875,
+        "y": 695.1552734375,
+        "id": "35",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Michael Sosin",
+        "x": 236.05447387695312,
+        "y": 351.9368896484375,
+        "id": "107",
+        "attributes": {
+            "Description": "University of Chicago"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Julie Shevrin",
+        "x": 127.34500885009766,
+        "y": 298.77435302734375,
+        "id": "103",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Homeless over 50: The Graying of Chicago's Homeless Population",
+        "x": 217.63438415527344,
+        "y": 592.8572998046875,
+        "id": "92",
+        "attributes": {
+            "Description": "This is a report of a 2-year collaborative study of homeless people aged 50 to 64 in Chicago between CURL and the Chicago Alliance to End Homelessness. This study had three goals: 1.) To obtain a demographic profile of people who are homeless in Chicago between the ages of 50 and 64; 2.) to understand how the various systems designed to serve this population do and do not meet their needs; and 3.) to begin to suggest a range of policy and programmatic responses to meet the needs of this population.",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7dfc9/51e9b190e4b01c56e4d7e190/1365544006583/FinalTech.pdf'>Click for additional information</a>"
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Christine George",
+        "x": 302.17010498046875,
+        "y": 512.075439453125,
+        "id": "87",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "John Orwat",
+        "x": 150.4827423095703,
+        "y": 277.09771728515625,
+        "id": "37",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Michael Rivers",
+        "x": 101.92365264892578,
+        "y": 385.82037353515625,
+        "id": "47",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Philip Nyden",
+        "x": 711.61328125,
+        "y": 282.446044921875,
+        "id": "52",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Dennis Watson",
+        "x": 185.30068969726562,
+        "y": 505.5147705078125,
+        "id": "93",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Chicago Continuum of Care",
+        "x": 433.7931823730469,
+        "y": 583.7553100585938,
+        "id": "1",
+        "attributes": {
+            "Description": "1615 W. Chicago Avenue\n Chicago, IL 60622, USA"
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Monica Tribuani",
+        "x": 367.1286315917969,
+        "y": 733.43994140625,
+        "id": "48",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Evaluation of the Homelessness Prevention Call Center",
+        "x": 383.1263427734375,
+        "y": 515.3193359375,
+        "id": "86",
+        "attributes": {
+            "Description": "This is a cumulative report of a 3-year collaborative evaluation of the Homelessness Prevention Call Center (HPCC or Call Center) between CURL and Catholic Charities of the Archdiocese of Chicago (Catholic Charities). Information for this evaluation was gathered from the following data sources: 1) phone surveys with HPCC callers deemed eligible for financial assistance; 2) focus groups with HPCC Information Referral Specialists and interviews with HPCC administrative staff and stakeholders; 3) an online survey with referral agency staff; 4) secondary data from the Homelessness Management Information System (HMIS)/HPCC data; and 5) test calls to the HPCC via 311 City Services."
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Evaluation of Chicago's Plan to End Homelessness",
+        "x": 198.00341796875,
+        "y": 309.65655517578125,
+        "id": "102",
+        "attributes": {
+            "Description": "N/A",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7e065/51e9b190e4b01c56e4d7e259/1365544000447/Presentation%20of%20Final%20Results%209-11.pdf'>Click for additional information</a>"
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Catholic Charities of the Arch Diocese of Chicago",
+        "x": 435.816162109375,
+        "y": 740.2659912109375,
+        "id": "17",
+        "attributes": {
+            "Description": "721 N. LaSalle Chicago, IL 60654, USA",
+            "link" : "<a href='http://www.catholiccharities.net/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Gloria Montgomery",
+        "x": 558.8032836914062,
+        "y": 130.57852172851562,
+        "id": "79",
+        "attributes": {
+            "Description": "LUC School of Education "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Lakefront SRO (Malden Arms)",
+        "x": 575.9241333007812,
+        "y": 693.858642578125,
+        "id": "12",
+        "attributes": {
+            "Description": "4727 N Malden Chicago, IL 60640, USA",
+            "link" : "<a href='http://www.mercyhousing.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Lucas Sharma",
+        "x": 251.0833282470703,
+        "y": 665.80126953125,
+        "id": "95",
+        "attributes": {
+            "Description": "LUC Department of Sociology"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Samantha Lewandowski",
+        "x": 286.4803466796875,
+        "y": 188.87855529785156,
+        "id": "54",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Christina Shipman",
+        "x": 231.85426330566406,
+        "y": 211.20892333984375,
+        "id": "25",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Veterans Affairs",
+        "x": 400.3252868652344,
+        "y": 727.1924438476562,
+        "id": "63",
+        "attributes": {
+            "Description": "810 Vermont Avenue, NW Washington, DC 20420, USA",
+            "link" : "<a href='http://www.va.gov/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Tim Sacco",
+        "x": 307.5233459472656,
+        "y": 121.76832580566406,
+        "id": "61",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Finding Stability: An Evaluation of Graduates of Chicago Christian Industrial League's Single Adult Program",
+        "x": 631.7600708007812,
+        "y": 491.66448974609375,
+        "id": "90",
+        "attributes": {
+            "Description": "N/A",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7dfc9/51e9b190e4b01c56e4d7e117/1365544003022/report_ccil.pdf'>Click for additional information</a>"
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Soulit Chacko",
+        "x": 391.5369873046875,
+        "y": 142.2774658203125,
+        "id": "56",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Finding Stability: An Evaluation of Graduates of Chicago Christian Industrial League's Single Adult Program",
+        "x": 679.5057983398438,
+        "y": 457.459716796875,
+        "id": "69",
+        "attributes": {
+            "Description": "The Chicago Christian Industrial League (CCIL or the League) was a long-standing social service agency located on the West Side of Chicago. It is how known as A Safe Haven. CCIL strove to challenge the effects of poverty in Chicago through its residential programs for formerly homeless single males and families. CCIL's residential programs consisted of classes, programs, and services such as employment, housing, education, and life skills training in order for residents to gain skills for future self-sufficiency and independence. CCIL partnered with the CURL to conduct an evaluation of CCIL's 18-month residential program.",
+           "link" : "<a href='http://loyolacurl.squarespace.com/projects/finding-stability-an-evaluation-of-graduates-of-chicago-chri.html?rq\u003dfinding%20stability'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 20.0
+    }, {
+        "label": "A History of Deborah's Place: An Organization Serving Women Who Are Homeless or Formally Homeless in Chicago",
+        "x": 571.4397583007812,
+        "y": 261.63458251953125,
+        "id": "76",
+        "attributes": {
+            "Description": " Listening to the voices of current and former participants, staff, volunteers, and board members, this report attempts to capture the essence of the relationships of those women who built or participated in Deborah's Place. The qualitative research was conducted between January and July, 2001. Over that period of time, 39 persons were interviewed. Fifteen were individual in-depth interviews, while the remainder was part of focus groups. In some cases, individuals participated in a focus group and were interviewed separately. We also relied on the guidance of an additional 15 women who met with the researchers to provide background information at the beginning of the project.",
+            "link" : "<a href='http://loyolacurl.squarespace.com/projects/a-history-of-deborahs-place-an-organization-serving-women-wh.html?rq\u003dplace'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 20.0
+    }, {
+        "label": "Joe Hoereth",
+        "x": 548.8250732421875,
+        "y": 619.122314453125,
+        "id": "36",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Evaluation of Chicago's Plan to End Homelessness: Youth Component",
+        "x": 168.54827880859375,
+        "y": 347.6708984375,
+        "id": "106",
+        "attributes": {
+            "Description": " The evaluation was designed to help guide policy and management of Chicago's homeless system as it is related to youth. This report summarized data from in-depth opened ended qualitative interviews with 32 randomly selected youth housed in homeless youth housing programs conducted in 2011. At the time of the interviews there were 152 youth age 18 and older housed in one of the 13 housing programs in the homeless youth system. In addition, we have included data from three focus groups with youth conducted at an earlier stage of the Evaluation of the Plan to End Homelessness in the summer of 2009.",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7e065/51e9b190e4b01c56e4d7e258/1365543999807/Final_Youth%20Report.pdf'>Click for additional information</a>"
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Maria Cristina Trutanich",
+        "x": 738.404052734375,
+        "y": 380.80535888671875,
+        "id": "42",
+        "attributes": {
+            "Description": "LUC Urban Studies Student"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Noah Addis",
+        "x": 690.515625,
+        "y": 319.5999755859375,
+        "id": "50",
+        "attributes": {},
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Sarah Stawiski",
+        "x": 305.3185729980469,
+        "y": 715.8496704101562,
+        "id": "55",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Deborah's Place (Patty Crowley Apartments, Learning Center)",
+        "x": 571.2981567382812,
+        "y": 394.56475830078125,
+        "id": "4",
+        "attributes": {
+            "Description": "1530  N. Sedgwick Ave. Chicago, IL 60610, USA",
+            "link" : "<a href='http://www.deborahsplace.org/home'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Matthew Cuddeback",
+        "x": 205.06773376464844,
+        "y": 177.73626708984375,
+        "id": "45",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Lakefront SRO (Delmar)",
+        "x": 673.2186889648438,
+        "y": 610.1656494140625,
+        "id": "9",
+        "attributes": {
+            "Description": "5042 N Winthrop Chicago, IL 60640, USA",
+            "link" : "<a href='http://www.mercyhousing.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Bill Byrnes",
+        "x": 272.988525390625,
+        "y": 135.84246826171875,
+        "id": "70",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Koonal Patel",
+        "x": 301.77374267578125,
+        "y": 470.81475830078125,
+        "id": "101",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Dara Lewis",
+        "x": 182.05245971679688,
+        "y": 211.2978057861328,
+        "id": "26",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Chicago Alliance to End Homelessness",
+        "x": 461.4439392089844,
+        "y": 354.1044921875,
+        "id": "67",
+        "attributes": {
+            "Description": "651 W. Washington, Suite 504 Chicago, IL 60661, USA",
+            "link" : "<a href='http://www.thechicagoalliance.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Suhail Khokhar",
+        "x": 462.27471923828125,
+        "y": 109.94670867919922,
+        "id": "58",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Lakefront SRO (Belray)",
+        "x": 601.108154296875,
+        "y": 633.4015502929688,
+        "id": "7",
+        "attributes": {
+            "Description": "3150 N Racine Chicago, IL 60657, USA",
+            "link" : "<a href='http://www.mercyhousing.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Lakefront SRO (Major Jenkins)",
+        "x": 611.0728149414062,
+        "y": 674.1226806640625,
+        "id": "11",
+        "attributes": {
+            "Description": "5012 N Winthrop Chicago, IL 60640, USA",
+            "link" : "<a href='http://www.mercyhousing.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Homeless Over 50: The Graying of Chicago's Homeless Population",
+        "x": 250.61764526367188,
+        "y": 554.70458984375,
+        "id": "73",
+        "attributes": {
+            "Description": "CURL, in collaboration with the Chicago Alliance to End Homelessness embarked on a project to better understand the stories and the needs of Chicago's aging population. The report's findings include: 1.) employable older individuals find challenges to work; 2.) veterans are unable to access benefits; and 3.) the safety net of social welfare programs fail this population. Recommendations: 1.) a stronger partnership between public and private agencies that serve people who are homeless and the aging; 2.) the enactment of state universal paid sick time; 3.) expanding job training programs for individuals over 48; 5.) improving access to SSI benefits.",
+            "link" : "<a href='http://loyolacurl.squarespace.com/projects/homeless-over-50-the-graying-of-chicagos-homeless-population.html?rq\u003d50'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 30.0
+    }, {
+        "label": "Julie Davis",
+        "x": 361.1725158691406,
+        "y": 249.6942138671875,
+        "id": "39",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "William P Bolton",
+        "x": 453.10748291015625,
+        "y": 156.48544311523438,
+        "id": "62",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "James Lagan",
+        "x": 240.1281280517578,
+        "y": 155.6204071044922,
+        "id": "33",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Kathy Wilson",
+        "x": 526.9087524414062,
+        "y": 165.1129913330078,
+        "id": "40",
+        "attributes": {
+            "Description": "Deborah's Place"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Deborah's Place (Rebecca Johnson Apartments,  Administrative Offices, Learning Center)",
+        "x": 624.1469116210938,
+        "y": 339.33123779296875,
+        "id": "5",
+        "attributes": {
+            "Description": "2822 W. Jackson Blvd. Chicago, IL 60612, USA",
+            "link" : "<a href='http://www.deborahsplace.org/home'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Connections for the Homeless / Hilda's Place",
+        "x": 691.0692138671875,
+        "y": 247.93370056152344,
+        "id": "20",
+        "attributes": {
+            "Description": "2121 Dewey Ave Evanston, IL 60201, USA"
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Deborah's Place (Marah's Permanent Housing Program)",
+        "x": 560.5836791992188,
+        "y": 340.611572265625,
+        "id": "97",
+        "attributes": {
+            "Description": "1456 W. Oakdale Ave. Chicago, IL 60657, USA",
+            "link" : "<a href='http://www.deborahsplace.org/home'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Mary Rojek",
+        "x": 336.79718017578125,
+        "y": 172.00523376464844,
+        "id": "44",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Housing Opportunities for Women",
+        "x": 637.63330078125,
+        "y": 179.59400939941406,
+        "id": "18",
+        "attributes": {
+            "Description": "1607 West Howard Street Chicago, IL 60626, USA",
+            "link" : "<a href='http://www.how-inc.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "First Wave Survey Results: A Preliminary Evaluation of Chicago's Ten Year Plan to End Homelessness",
+        "x": 297.6484375,
+        "y": 405.5279541015625,
+        "id": "98",
+        "attributes": {
+            "Description": "N/A",
+            "link" : "<a href='http://static1.squarespace.com/static/51e86261e4b00dfa7317c09b/t/5570c129e4b06ce94fb1ee4a/1433452841637/First+Wave+Quantitative+Survey+Results+Nov2010+with+corrections+Jan2011.pdf'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Henry Cheung",
+        "x": 440.96875,
+        "y": 293.8509521484375,
+        "id": "32",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Teresa Jane Castellon",
+        "x": 343.08294677734375,
+        "y": 111.05699157714844,
+        "id": "60",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "City of Chicago's 311 Service",
+        "x": 519.0089721679688,
+        "y": 498.47845458984375,
+        "id": "2",
+        "attributes": {
+            "Description": "2111 W. Lexington Street Chicago, IL 60612, USA",
+            "link" : "<a href='http://www.cityofchicago.org/city/en/depts/311/supp_info/311calltips.html'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Pathways to Stable Housing Photo Exhibit",
+        "x": 649.6591186523438,
+        "y": 276.359619140625,
+        "id": "66",
+        "attributes": {
+            "Description": "In a partnership with the Chicago Alliance to End Homelessness and other service and advocacy organizations, CURL and photographer Noah Addis organized this exhibition to present positive images of individuals moving from homelessness to housing. The exhibition was displayed at LUMA (Loyola University Museum of Art) for six months during 2011 and 2012. The photos are currently on display at CURL's office in Cuneo Hall on the Lake Shore Campus. The exhibition confronts the dominant stereotypes that homeless individuals are helpless street beggars or that organizations serving them are just providing handouts without addressing long-term solutions.",
+            "link" : "<a href='http://loyolacurl.squarespace.com/pathways-to-stable-housing-photo-exhibit/?rq\u003dpathways%20to%20stable'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 20.0
+    }, {
+        "label": "Cesraea Rumpf",
+        "x": 263.2930603027344,
+        "y": 301.35540771484375,
+        "id": "89",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "United Power for Action and Justice: Breaking the Cycle of Homelessness Reports - Policy Brief",
+        "x": 384.5377197265625,
+        "y": 615.8917236328125,
+        "id": "108",
+        "attributes": {
+            "Description": "N/A",
+            "link" : "<a href='https://static.squarespace.com/static/51e86261e4b00dfa7317c09b/51e9b18fe4b01c56e4d7dfc9/51e9b190e4b01c56e4d7e189/1365543969043/Policy_Brief.pdf'>Click for additional information</a>"         },
+        "color": "rgb(255,0,255)",
+        "size": 10.0
+    }, {
+        "label": "Eddie Brown",
+        "x": 382.66326904296875,
+        "y": 100.0,
+        "id": "29",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Chiara Sabina",
+        "x": 480.17718505859375,
+        "y": 643.4964599609375,
+        "id": "109",
+        "attributes": {
+            "Description": "LUC Department of Psychology "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Catholic Charities Homelessness Prevention Call Center",
+        "x": 487.5435485839844,
+        "y": 556.402587890625,
+        "id": "85",
+        "attributes": {
+            "Description": "721 N. LaSalle St. Chicago, IL 60654, USA",
+            "link" : "<a href='http://www.catholiccharities.net/services/homelessness'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Heartland Alliance",
+        "x": 100.0,
+        "y": 481.330078125,
+        "id": "65",
+        "attributes": {
+            "Description": "208 S. LaSalle Street, Suite 1818 Chicago, IL 60604, USA",
+            "link" : "<a href='http://www.heartlandalliance.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Understanding Landlord Related Issues in Permanent Supported Housing",
+        "x": 181.35971069335938,
+        "y": 560.9605102539062,
+        "id": "94",
+        "attributes": {
+            "Description": "This study aimed to develop a better understanding of issues related to stigma of clients who are receiving services from one of two permanent supportive housing programs run by the AIDS Foundation of Chicago (AFC). Clients of each of these programs reported to AFC that they have perceived stigma directed towards them from landlords within the past year. AFC requested a partnership with the CURL to investigate this phenomenon to inform the development of more appropriate interventions to address the problem. An internal report was produced.",
+            "link" : "<a href='http://loyolacurl.squarespace.com/projects/understanding-landlord-related-issues-in-permanent-supported.html?rq\u003dlandlord'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,0,0)",
+        "size": 20.0
+    }, {
+        "label": "St. Leo Campus for Veterans",
+        "x": 452.4771423339844,
+        "y": 705.5494995117188,
+        "id": "14",
+        "attributes": {
+            "Description": "7750 S. Emerald Chicago, IL 60620, USA",
+            "link" : "<a href='http://www.stleoveterans.com/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "University of Chicago School of Social Service Administration",
+        "x": 155.24102783203125,
+        "y": 233.87705993652344,
+        "id": "16",
+        "attributes": {
+            "Description": "969 E. 60th Street Chicago, IL 60637, USA",
+            "link" : "<a href='http://ssa.uchicago.edu/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Judith Wittner",
+        "x": 184.87136840820312,
+        "y": 629.3165893554688,
+        "id": "38",
+        "attributes": {
+            "Description": "LUC Department of Sociology"
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "St. Leonard's Ministries",
+        "x": 669.0118408203125,
+        "y": 212.6401824951172,
+        "id": "22",
+        "attributes": {
+            "Description": "48 N Hoyne Ave Chicago, IL 60612, USA",
+            "link" : "<a href='http://slministries.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "West Suburban PADS",
+        "x": 727.1777954101562,
+        "y": 327.72576904296875,
+        "id": "21",
+        "attributes": {
+            "Description": "1851 S 9th Ave Maywood, IL 60153, USA",
+            "link" : "<a href='http://www.westsuburbanpads.org/'>Click for additional information</a>"  
+        },
+        "color": "rgb(255,200,0)",
+        "size": 10.0
+    }, {
+        "label": "Dana Wagner",
+        "x": 131.19078063964844,
+        "y": 417.357177734375,
+        "id": "105",
+        "attributes": {
+            "Description": "LUC Center for Urban Research and Learning "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }, {
+        "label": "Aparna Sharma",
+        "x": 654.6117553710938,
+        "y": 530.451416015625,
+        "id": "91",
+        "attributes": {
+            "Description": "LUC Department of Psychology "
+        },
+        "color": "rgb(0,0,204)",
+        "size": 10.0
+    }]
+}
